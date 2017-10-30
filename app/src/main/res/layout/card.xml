@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/card_container"
+    style="@style/cardLayout">
+
+    <ImageView
+        android:id="@+id/list_item_icon"
+        style="@style/cardImage"
+        android:src="@drawable/not_available"/>
+
+    <RelativeLayout
+        style="@style/cardInfoContainer">
+
+        <TextView
+            android:id="@+id/title"
+            style="@style/cardTitle"/>
+
+        <RatingBar
+            android:id="@+id/rating"
+            style="@style/cardRating"/>
+
+        <TextView
+            android:id="@+id/description"
+            style="@style/cardDescription" />
+
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="?android:attr/selectableItemBackground"/>
+</RelativeLayout>

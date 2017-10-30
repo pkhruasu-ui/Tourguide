@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Tour guide</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- category names -->
+    <string name="category_landmark">Landmark</string>
+    <string name="category_museum">Museum</string>
+    <string name="category_park">Park</string>
+    <string name="category_restroom">Restroom</string>
+
+    <!-- misc strings -->
+    <string name="card_title_placeholder">Title</string>
+    <string name="card_image_placeholder">Image</string>
+    <string name="card_description_placeholder">Description</string>
+    <string name="rr_name_0">Restroom</string>
+    <string name="rr_name_1">San Jose Diridon Station</string>
+    <string name="rr_addr_0">108&#8211;138 N 2nd St, San Jose, CA 95113</string>
+    <string name="rr_addr_1">37 N San Pedro St, San Jose, CA 95110</string>
+    <string name="rr_addr_2">346&#8211;350 S 1st St, San Jose, CA 95113</string>
+    <string name="rr_addr_3">207&#8211;213 W San Carlos St, San Jose, CA 95113</string>
+    <string name="rr_addr_4">San Jose, CA 95110</string>
+    <string name="park_name_0">Municipal Rose Garden</string>
+    <string name="park_name_1">Happy Hollow Park and Zoo</string>
+    <string name="park_name_2">Los Gatos Creek Trail</string>
+    <string name="park_name_3">Japanese Friendship Garden</string>
+    <string name="park_name_4">Almaden Quicksilver County Park</string>
+    <string name="park_name_5">Alum Rock Park</string>
+    <string name="park_name_6">Heritage Rose Garden</string>
+    <string name="park_name_7">Plaza de Cesar Chavez Park</string>
+    <string name="park_type_0">Gardens</string>
+    <string name="park_type_1">Zoos</string>
+    <string name="park_type_2">Hiking Trails</string>
+    <string name="park_type_3">Gardens</string>
+    <string name="park_type_4">Parks</string>
+    <string name="park_type_5">Parks</string>
+    <string name="park_type_6">Gardens</string>
+    <string name="park_type_7">Parks</string>
+    <string name="museum_name_0">Rosicrucian Egyptian Museum</string>
+    <string name="museum_name_1">The Tech Museum of Innovation</string>
+    <string name="museum_name_2">Children\'s Discovery Museum</string>
+    <string name="museum_name_3">San Jose Museum of Art</string>
+    <string name="museum_name_4">New Almaden Mercury Mining Museum</string>
+    <string name="museum_name_5"><![CDATA[San Jose Museum of Quilts & Textiles]]></string>
+    <string name="museum_name_6">Japanese American Resource Center/Museum</string>
+    <string name="museum_name_7">History Museum of San Jose</string>
+    <string name="museum_type_0">History Museums , Specialty Museums</string>
+    <string name="museum_type_1">Specialty Museums</string>
+    <string name="museum_type_2">Children\'s Museums , Science Museums</string>
+    <string name="museum_type_3">Art Museums</string>
+    <string name="museum_type_4">History Museums , Specialty Museums</string>
+    <string name="museum_type_5">Specialty Museums</string>
+    <string name="museum_type_6">Specialty Museums</string>
+    <string name="museum_type_7">Specialty Museums</string>
+    <string name="landmark_name_0">Winchester Mystery House</string>
+    <string name="landmark_name_1">SAP Center</string>
+    <string name="landmark_name_2">Cathedral Basilica of St. Joseph</string>
+    <string name="landmark_name_3">Willow Glen</string>
+    <string name="landmark_name_4">Avaya Stadium</string>
+    <string name="landmark_name_5">Municipal Stadium, San Jose Giants</string>
+    <string name="landmark_name_6">Sikh Gurdwara</string>
+    <string name="landmark_name_7">Japantown (San Jose)</string>
+    <string name="landmark_type_0">Historic Sites , Mysterious Sites</string>
+    <string name="landmark_type_1"><![CDATA[Arenas & Stadiums]]></string>
+    <string name="landmark_type_2"><![CDATA[Churches & Cathedrals]]></string>
+    <string name="landmark_type_3">Neighborhoods</string>
+    <string name="landmark_type_4"><![CDATA[Arenas & Stadiums]]></string>
+    <string name="landmark_type_5"><![CDATA[Arenas & Stadiums]]></string>
+    <string name="landmark_type_6"><![CDATA[Points of Interest & Landmarks]]></string>
+    <string name="landmark_type_7">Neighborhoods</string>
+
+</resources>

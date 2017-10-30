@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1B5E20</color>
+    <color name="colorPrimaryDark">#1B5E20</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- category color-->
+    <color name="landmark_category">@android:color/white</color>
+    <color name="landmark_museum">@android:color/white</color>
+    <color name="landmark_park">@android:color/white</color>
+    <color name="landmark_restroom">@android:color/white</color>
+</resources>
